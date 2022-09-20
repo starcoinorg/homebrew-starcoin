@@ -1,9 +1,9 @@
 class Starcoin < Formula
     desc "A Layered Smart Contract And Distributed Financial Network"
     homepage "https://www.starcoin.org/"
-    url "https://github.com/starcoinorg/starcoin/releases/download/v1.12.3/starcoin-macos-latest.zip"
-    sha256 "6b70102f075e9ccffd33034ec7a05a7e4fa2c54175851ffaecd090e59d381f26"
-    version "v1.12.3"
+    url "https://github.com/starcoinorg/starcoin/releases/download/v1.12.4/starcoin-macos-latest.zip"
+    sha256 "891ee2fd7992e3149f40b31d61cfc21f1a91e48c3138604a0cc0e2adefe8c179"
+    version "1.12.4"
 
     def install
       bin.install "starcoin"
